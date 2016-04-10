@@ -6,5 +6,6 @@ add_executable (${PROJECT_NAME}
   deg2rad.cpp
   vec2.cpp
   add_pointer_t.cpp
+  count_types.cpp
 )
 
