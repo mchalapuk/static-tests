@@ -5,5 +5,6 @@ add_executable (${PROJECT_NAME}
   static_tests.cpp
   deg2rad.cpp
   vec2.cpp
+  add_pointer_t.cpp
 )
 
